@@ -1,0 +1,16 @@
+name: Greetings
+
+on: [pull_request_target, issues]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        issue-message: "**Thank you for submiting this issue!**\nMake sure you use the latest edetion the pack, you don't report an issue what already been reported and that you use a supported Minecraft version."
+        pr-message: "**Thank you for contributing!**\nMake sure that you are following the *Contribution Guidelines* :wink:"
