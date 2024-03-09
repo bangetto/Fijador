@@ -1,0 +1,36 @@
+name: publish
+
+on:
+  release:
+    types: [released]
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    environment: github-actions
+    strategy:
+        max-parallel: 2
+    steps:
+       - name: Download the pack files
+         uses: robinraju/release-downloader@v1.9
+         id: download-files
+         with:
+           fileName: "*.zip"
+           latest: true
+           tarBall: false
+           zipBall: false
+
+       - name: Publish to Modrinth and CurseForge
+         uses: Kir-Antipov/mc-publish@v3.3
+         with:
+           name: "[${{ steps.download-files.outputs.tag_name }}] Fijador"
+           files: '*.zip'
+           loaders: minecraft
+           game-versions: "[1.18.2,1.20.4]"
+
+           modrinth-id: iDq9j9UQ
+           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
+
+           curseforge-idtemp:
+           curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}
+
