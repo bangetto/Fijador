@@ -5,7 +5,7 @@
 - [MC-266951](https://bugs.mojang.com/browse/MC-266951) - There is a slightly miscolored pixel in the cherry leaves texture
 - [MC-266493](https://bugs.mojang.com/browse/MC-266493) - Trial Key texture renders backward in third person
 - [MC-122701](https://bugs.mojang.com/browse/MC-122701) - Sunflowers are stretched
-- [MC-120417](https://bugs.mojang.com/browse/MC-120417)
+- [MC-120417](https://bugs.mojang.com/browse/MC-120417) - Incorrect dragon egg block model
 - [MC-92274](https://bugs.mojang.com/browse/MC-92274) - Some blocks are held incorrectly in third-person
 - [MC-91869](https://bugs.mojang.com/browse/MC-91869) - Mob heads/skulls (except dragon head) are barely recognizable as such when held (held awkwardly in first person view)
 - [MC-90566](https://bugs.mojang.com/browse/MC-90566) - The plants of sunflowers don't connect to their stems
