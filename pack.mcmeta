@@ -4,7 +4,7 @@
 		"supported_formats": [15, 22],
         "description": {
 		"translate": "fijador.packmcmeta.desc",
-		"fallback: "by bangetto and other contributors"
+		"fallback": "by bangetto and other contributors"
 	}
     }
 }
