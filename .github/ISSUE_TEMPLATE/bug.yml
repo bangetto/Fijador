@@ -28,12 +28,12 @@ body:
     validations:
       required: true
   - type: textarea
-    id: reproduce
+    id: repr
     attributes:
       label: "How it can be reproduced?"
       placeholder: "Step 1: asdfgh\nStep 2: otrtcvb..."
     validations:
-        required: true
+      required: true
   - type: textarea
     id: fix
     attributes:
@@ -41,7 +41,7 @@ body:
       desciption: "If you know how to fix it write it down here!"
       placeholder: "This issue could be solved by..."
     validations:
-	required: false
+      required: false
   - type: input
     id: mc
     attributes:
@@ -49,4 +49,4 @@ body:
       description: "Write down your Minecraft version"
       placeholder: "Example: 1.20.1"
     validations:
-        required: true
+      required: true
