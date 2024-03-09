@@ -31,7 +31,3 @@ jobs:
 
            modrinth-id: iDq9j9UQ
            modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
-
-           curseforge-idtemp:
-           curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}
-
