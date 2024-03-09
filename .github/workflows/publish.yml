@@ -17,6 +17,7 @@ jobs:
          with:
            fileName: "*.zip"
            latest: true
+           preRelease: true
            tarBall: false
            zipBall: false
 
