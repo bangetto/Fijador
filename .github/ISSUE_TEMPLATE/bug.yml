@@ -1,0 +1,53 @@
+name: Report a Bug
+description: Something isn't working.
+title: "[BUG]: "
+labels: ["bug"]
+assignees:
+  - bangetto
+body:
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checks
+      description: "Before reporting an issue please check try these solutions"
+      options:
+        - label: "I downloaded the latest version of the repository"
+          required: true
+        - label: "I'm using one of the supported Minecraft versions"
+          required: false
+	- label: "This issue only happens when the resource pack is loaded"
+	  required: true
+	- label: "The issue still presist after everything else have been removed"
+	  required: true
+    validations:
+      required: true
+  - type: textarea
+    id: desc
+    attributes:
+      label: What's the problem?
+      description: "Write a detailed description of the issue!"
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: "How it can be reproduced?"
+      placeholder: "Step 1: asdfgh\nStep 2: otrtcvb..."
+    validations:
+        required: true
+  - type: textarea
+    id: fix
+    attributes:
+      label: "Do you have a potential fix in mind?"
+      desciption: "If you know how to fix it write it down here!"
+      placeholder: "This issue could be solved by..."
+    validations:
+	required: false
+  - type: input
+    id: mc
+    attributes:
+      label: "Your Minecraft version"
+      description: "Write down your Minecraft version"
+      placeholder: "Example: 1.20.1"
+    validations:
+        required: true
