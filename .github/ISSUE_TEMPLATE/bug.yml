@@ -15,8 +15,6 @@ body:
           required: true
         - label: "I'm using one of the supported Minecraft versions"
 	  required: false
-	- label: "This issue only happens when the resource pack is loaded"
-	  required: true
    	- label: "The issue still presist after everything else have been removed"
  	  required: true
     validations:
