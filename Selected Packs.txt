@@ -1,0 +1,37 @@
+Vanilla Tweaks Resource Pack
+Version: 1.20
+Packs:
+	ItemStitchingFix
+	JappaObserver
+	JappaToasts
+	JappaStatsIcons
+	JappaSpecIcons
+	RedstoneWireFix
+	DripleafFixBig
+	DripleafFixSmall
+	ConsistentUIFix
+	ConsistentBucketFix
+	CactusBottomFix
+	PixelConsistentGhast
+	PixelConsistentElderGuardian
+	PixelConsistentWither
+	TripwireHookFix
+	PixelConsistentSigns
+	PixelConsistentXPOrbs
+	PixelConsistentBeaconBeam
+	PixelConsistentSonicBoom
+	PixelConsistentGuardianBeam
+	SoulSoilSoulCampfire
+	BlazeFix
+	SlimeParticleFix
+	ProperBreakParticles
+	IronBarsFix
+	ConsistentSmoothStone
+	DoubleSlabFix
+	HoeFix
+	CloudFogFix
+	NoBowlParticles
+	ItemHoldFix
+
+Combined packs:
+	ItemHoldFix+NoBowlParticles
