@@ -1,0 +1,6 @@
+Format:
+  Author: link://to.the/file
+
+---
+
+Vanilla Tweaks: https://vanillatweaks.net/
