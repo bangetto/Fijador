@@ -12,3 +12,4 @@
 - [MC-91869](https://bugs.mojang.com/browse/MC-91869) - Mob heads/skulls (except dragon head) are barely recognizable as such when held (held awkwardly in first person view)
 - [MC-90566](https://bugs.mojang.com/browse/MC-90566) - The plants of sunflowers don't connect to their stems
 - [MC-86135](https://bugs.mojang.com/browse/MC-86135) - Banner patterns on shields and banners look different despite having identical designs
+- [MC-109087](https://bugs.mojang.com/browse/MC-109087) - Faces of some blocks are not at all culled when said face is hidden by a solid, opaque block
