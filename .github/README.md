@@ -1,4 +1,15 @@
 # Fijador
+**Fijador is a Resource Pack that fixes texture and model bugs found on <a href="https://bugs.mojang.com/browse/MC-114274" target="_blank">Minecraft's issue tracker</a>.**
+
+### Alpha
+This project is at the alpha stages, and a lot more will be fixed then what is currently here.
+
+<br>
+
+## What is fixed?
+#### Total: <u>12</u>
+
+<br>
 
 ### v0.1 fixes
 - [MC-267095](https://bugs.mojang.com/browse/MC-267095) - Nether Brick block texture misalignment
