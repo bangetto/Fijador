@@ -1,5 +1,5 @@
 # Fijador
-**Fijador is a Resource Pack that fixes texture and model bugs found on <a href="https://bugs.mojang.com/browse/MC-114274" target="_blank">Minecraft's issue tracker</a>.**
+**Fijador is a Resource Pack that fixes texture and model bugs found on the <a href="https://bugs.mojang.com/browse/MC-114274" target="_blank">Minecraft's issue tracker</a>.**
 
 ### Alpha
 This project is at the alpha stages, and a lot more will be fixed then what is currently here.
