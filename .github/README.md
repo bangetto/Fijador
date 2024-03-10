@@ -33,3 +33,4 @@ This project is at the alpha stages, and a lot more will be fixed then what is c
 - [MC-144320](https://bugs.mojang.com/browse/MC-144320) - unknown_pack.png uses outdated new cobblestone texture
 - [MC-144327](https://bugs.mojang.com/browse/MC-144327) - The bottom face texture of a blaze's rods is the same as their top face texture
 - [MC-150572](https://bugs.mojang.com/browse/MC-150572) - Cactus bottom texture not updated
+- [MC-152331](https://bugs.mojang.com/browse/MC-152331) - Barrier block icon in the spectator hotbar widgets is not updated
