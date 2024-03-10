@@ -9,7 +9,7 @@ This project is at the alpha stages, and a lot more will be fixed then what is c
 </a><br><br>
 
 ## What is fixed?
-#### Total: <u>12</u>
+#### Total: <u>13</u>
 <br>
 
 ### v0.1 fixes
@@ -25,3 +25,5 @@ This project is at the alpha stages, and a lot more will be fixed then what is c
 - [MC-90566](https://bugs.mojang.com/browse/MC-90566) - The plants of sunflowers don't connect to their stems
 - [MC-86135](https://bugs.mojang.com/browse/MC-86135) - Banner patterns on shields and banners look different despite having identical designs
 - [MC-109087](https://bugs.mojang.com/browse/MC-109087) - Faces of some blocks are not at all culled when said face is hidden by a solid, opaque block
+- [MC-131022](https://bugs.mojang.com/browse/MC-131022) - Conduits float when held in the player's hand
+- [MC-135407](https://bugs.mojang.com/browse/MC-135407) - Tall seagrass is one pixel above the water when the water is 2 blocks high
