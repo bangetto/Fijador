@@ -29,3 +29,4 @@ This project is at the alpha stages, and a lot more will be fixed then what is c
 - [MC-135407](https://bugs.mojang.com/browse/MC-135407) - Tall seagrass is one pixel above the water when the water is 2 blocks high
 - [MC-137583](https://bugs.mojang.com/browse/MC-137583) - The sides of "polished" slabs appear cut off / double versions of these slabs look like normal blocks
 - [MC-137913](https://bugs.mojang.com/browse/MC-137913) - Oak sign item texture's text is brighter than that of the other signs
+- [MC-137957](https://bugs.mojang.com/browse/MC-137957) - Sandstone and red sandstone walls have side texture on the top and bottom faces
