@@ -32,3 +32,4 @@ This project is at the alpha stages, and a lot more will be fixed then what is c
 - [MC-137957](https://bugs.mojang.com/browse/MC-137957) - Sandstone and red sandstone walls have side texture on the top and bottom faces
 - [MC-144320](https://bugs.mojang.com/browse/MC-144320) - unknown_pack.png uses outdated new cobblestone texture
 - [MC-144327](https://bugs.mojang.com/browse/MC-144327) - The bottom face texture of a blaze's rods is the same as their top face texture
+- [MC-150572](https://bugs.mojang.com/browse/MC-150572) - Cactus bottom texture not updated
