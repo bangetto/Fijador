@@ -4,11 +4,12 @@
 ### Alpha
 This project is at the alpha stages, and a lot more will be fixed then what is currently here.
 
-<br>
+<a href="https://bisecthosting.com/bangetto" target="_blank">
+<img src="https://www.bisecthosting.com/partners/custom-banners/81c7319d-d963-477b-9ea6-7fb11e1b8a46.webp">
+</a><br><br>
 
 ## What is fixed?
 #### Total: <u>12</u>
-
 <br>
 
 ### v0.1 fixes
