@@ -9,10 +9,10 @@ This project is at the alpha stages, and a lot more will be fixed then what is c
 </a><br><br>
 
 ## What is fixed?
-#### Total: <u>22</u>
+#### Total: <u>23</u>
 <br>
 
-### v0.1 fixes
+### Alpha 1.0 fixes
 - [MC-267095](https://bugs.mojang.com/browse/MC-267095) - Nether Brick block texture misalignment
 - [MC-266993](https://bugs.mojang.com/browse/MC-266993) - Statistics page uses outdated textures
 - [MC-266951](https://bugs.mojang.com/browse/MC-266951) - There is a slightly miscolored pixel in the cherry leaves texture
@@ -34,4 +34,7 @@ This project is at the alpha stages, and a lot more will be fixed then what is c
 - [MC-144327](https://bugs.mojang.com/browse/MC-144327) - The bottom face texture of a blaze's rods is the same as their top face texture
 - [MC-150572](https://bugs.mojang.com/browse/MC-150572) - Cactus bottom texture not updated
 - [MC-152331](https://bugs.mojang.com/browse/MC-152331) - Barrier block icon in the spectator hotbar widgets is not updated
+
+### Alpha 1.1 fixes
+- [MC-140819](https://bugs.mojang.com/browse/MC-140819) - Lectern model extends past inventory slot
 
