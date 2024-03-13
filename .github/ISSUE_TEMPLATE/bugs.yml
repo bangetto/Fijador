@@ -19,8 +19,6 @@ body:
           required: true
         - label: "The issue still presist after everything else have been removed"
           required: true
-      validations:
-        required: true
   - type: textarea
     id: desc
     attributes:
