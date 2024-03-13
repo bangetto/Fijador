@@ -39,7 +39,7 @@ body:
     id: fix
     attributes:
       label: "Do you have a potential fix in mind?"
-      desciption: "If you know how to fix it write it down here!"
+      description: "If you know how to fix it write it down here!"
       placeholder: "This issue could be solved by..."
     validations:
       required: false
