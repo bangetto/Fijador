@@ -14,13 +14,13 @@ body:
         - label: "I downloaded the latest version of the repository"
           required: true
         - label: "I'm using one of the supported Minecraft versions"
-	  required: true
-	- label: "This issue only happens when the resource pack is loaded"
-	  required: true
-   	- label: "The issue still presist after everything else have been removed"
- 	  required: true
-    validations:
-      required: true
+	        required: true
+	      - label: "This issue only happens when the resource pack is loaded"
+	        required: true
+   	    - label: "The issue still presist after everything else have been removed"
+ 	        required: true
+      validations:
+        required: true
   - type: textarea
     id: desc
     attributes:
