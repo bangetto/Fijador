@@ -1,6 +1,0 @@
-{
-    "parent": "item/oak_sign",
-    "textures": {
-        "layer1": "item/sign/text/red"
-    }
-}

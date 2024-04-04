@@ -1,9 +1,0 @@
-{
-    "overrides": [
-        {
-            "predicate": {
-                "nbt": { "BlockEntityTag": { "front_text": { "color": "red" } } }
-            }, "model": "item/sign/oak/red"
-        }
-    ]
-}
