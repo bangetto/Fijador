@@ -37,5 +37,6 @@ This project is at the alpha stages, and a lot more will be fixed then what is c
 
 ### Alpha 1.1 fixes
 - [MC-140819](https://bugs.mojang.com/browse/MC-140819) - Lectern model extends past inventory slot
-- [MC-104092](https://bugs.mojang.com/browse/MC-104092) - Some plants float on farmland - *(Comment: Still effects big dripleafs)*
+- [MC-104092](https://bugs.mojang.com/browse/MC-104092) - Some plants float on farmland
+    - *Comment: Still effects big dripleafs*
 
