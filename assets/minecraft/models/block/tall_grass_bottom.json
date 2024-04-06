@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/cross_on_farmland",
+    "textures": {
+      "cross": "minecraft:block/tall_grass_bottom"
+    }
+  }

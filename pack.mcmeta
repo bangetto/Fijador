@@ -1,10 +1,10 @@
 {
     "pack": {
         "pack_format": 15,
-		"supported_formats": [15, 22],
+		"supported_formats": [15, 35],
         "description": {
 		"translate": "fijador.packmcmeta.desc",
-		"fallback": "by bangetto and other contributors"
+		"fallback": "by bangetto\nand other contributors"
 	}
     }
 }

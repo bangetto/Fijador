@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross_on_farmland",
+  "textures": {
+    "cross": "minecraft:block/sweet_berry_bush_stage0"
+  }
+}
