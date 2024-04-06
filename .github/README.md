@@ -39,4 +39,5 @@ This project is at the alpha stages, and a lot more will be fixed then what is c
 - [MC-140819](https://bugs.mojang.com/browse/MC-140819) - Lectern model extends past inventory slot
 - [MC-104092](https://bugs.mojang.com/browse/MC-104092) - Some plants float on farmland
     - *Comment: Still effects big dripleafs*
+- [MC-131022](https://bugs.mojang.com/browse/MC-131022) - Conduits float when held in the player's hand
 
