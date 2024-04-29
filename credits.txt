@@ -4,3 +4,11 @@ Format:
 ---
 
 Vanilla Tweaks: https://vanillatweaks.net/
+boda kugga: https://bugs.mojang.com/secure/attachment/516726/516726_sunflower_top-FIX.json
+Twi: https://bugs.mojang.com/secure/attachment/113938/skull.json
+peterjiangTW: https://bugs.mojang.com/browse/MC-109478
+Capopanzone: https://bugs.mojang.com/secure/attachment/272218/272218_MC-137957+Sandstone+wall+fixes.zip
+Little X: https://bugs.mojang.com/secure/attachment/458340/cactus_bottom.png
+Shaddatic: https://bugs.mojang.com/secure/attachment/427482/Left%20Hand%20Fix.zip
+Jiingy: https://bugs.mojang.com/secure/attachment/563491/563491_terracotta_fix-MC-161716.zip
+KoriKlorkin: https://bugs.mojang.com/browse/MC-267095
