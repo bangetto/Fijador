@@ -3,8 +3,8 @@
         "pack_format": 15,
 		"supported_formats": [15, 35],
         "description": {
-		"translate": "fijador.packmcmeta.desc",
-		"fallback": "by bangetto\nand other contributors"
+		    "translate": "fijador.packmcmeta.desc",
+		    "fallback": "by bangetto\nand other contributors"
 	}
     }
 }

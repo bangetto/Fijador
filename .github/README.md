@@ -9,7 +9,7 @@ This project is at the alpha stages, and a lot more will be fixed then what is c
 </a><br><br>
 
 ## What is fixed?
-#### Total: <u>23</u>
+#### Total: <u>24</u>
 <br>
 
 ### Alpha 1.0 fixes
@@ -39,6 +39,12 @@ This project is at the alpha stages, and a lot more will be fixed then what is c
 ### Alpha 1.1 fixes
 - [MC-140819](https://bugs.mojang.com/browse/MC-140819) - Lectern model extends past inventory slot
 - [MC-104092](https://bugs.mojang.com/browse/MC-104092) - Some plants float on farmland
-    - *Comment: Still effects big dripleafs*
+    - *Comment: Still effects big dripleafs and pink petals*
 - [MC-131022](https://bugs.mojang.com/browse/MC-131022) - Conduits float when held in the player's hand
 
+### Alpha 1.2 fixes
+- [MC-98631](https://bugs.mojang.com/browse/MC-98631) - The heights of shields in first person are different depending on what hand you have them held in
+- [MC-160720](https://bugs.mojang.com/browse/MC-160720) - Bedrock part of end crystal uses old bedrock texture
+- [MC-160810](https://bugs.mojang.com/browse/MC-160810) - Some items are held sideways in left hand
+- [MC-161716](https://bugs.mojang.com/browse/MC-161716) - Normal terracotta and dyed terracotta have an inconsistent texture
+- [MC-173455](https://bugs.mojang.com/browse/MC-173455) - Empty armor slot texture has yet to follow texture update
