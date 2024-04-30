@@ -12,3 +12,5 @@ Little X: https://bugs.mojang.com/secure/attachment/458340/cactus_bottom.png
 Shaddatic: https://bugs.mojang.com/secure/attachment/427482/Left%20Hand%20Fix.zip
 Jiingy: https://bugs.mojang.com/secure/attachment/563491/563491_terracotta_fix-MC-161716.zip
 KoriKlorkin: https://bugs.mojang.com/browse/MC-267095
+DecafDawren: https://bugs.mojang.com/secure/attachment/330601/bell_fix.zip
+Connor Steppie: https://bugs.mojang.com/browse/MC-194192
