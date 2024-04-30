@@ -1,5 +1,5 @@
 {
-    "parent": "block/template_sandstone_wall_inventory",
+    "parent": "block/template_wall_top_bottom_inventory",
     "textures": {
 		"bottom": "block/sandstone_bottom",
 		"top": "block/sandstone_top",

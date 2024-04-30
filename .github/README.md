@@ -48,3 +48,9 @@ This project is at the alpha stages, and a lot more will be fixed then what is c
 - [MC-160810](https://bugs.mojang.com/browse/MC-160810) - Some items are held sideways in left hand
 - [MC-161716](https://bugs.mojang.com/browse/MC-161716) - Normal terracotta and dyed terracotta have an inconsistent texture
 - [MC-173455](https://bugs.mojang.com/browse/MC-173455) - Empty armor slot texture has yet to follow texture update
+
+### Alpha 1.3 fixes
+- [MC-181777](https://bugs.mojang.com/browse/MC-181777) - Extinguished soul campfires look identical to extinguished normal campfires
+- [MC-182383](https://bugs.mojang.com/browse/MC-182383) - Blackstone walls use blackstone side texture on the top face
+- [MC-183421](https://bugs.mojang.com/browse/MC-183421) - Bell model does not map the stone nor planks textures correctly
+- [MC-194192](https://bugs.mojang.com/browse/MC-194192) - Potted cactus bottom face different from regular flower pot bottom

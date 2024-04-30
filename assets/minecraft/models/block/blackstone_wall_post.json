@@ -1,0 +1,7 @@
+{
+    "parent": "block/template_wall_column_post",
+    "textures": {
+		"end": "block/blackstone_top",
+        "side": "block/blackstone"
+    }
+}

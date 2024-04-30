@@ -3,6 +3,7 @@
     "textures": {
         "particle": "block/flower_pot",
         "flowerpot": "block/flower_pot",
+        "flowerpot_bottom": "block/flower_pot_bottom",
         "cactus_top": "block/cactus_top",
         "cactus": "block/cactus_side"
     },
@@ -10,7 +11,7 @@
         {   "from": [ 5, 0, 5 ],
             "to": [ 11, 6, 11 ],
             "faces": {
-                "down":  { "uv": [ 5, 10, 11, 16 ], "texture": "#flowerpot", "cullface": "down" },
+                "down":  { "uv": [ 5, 10, 11, 16 ], "texture": "#flowerpot_bottom", "cullface": "down" },
                 "up":    { "uv": [ 5, 5, 11, 11 ], "texture": "#flowerpot" },
                 "north": { "uv": [ 5, 10, 11, 16 ], "texture": "#flowerpot" },
                 "south": { "uv": [ 5, 10, 11, 16 ], "texture": "#flowerpot" },
