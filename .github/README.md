@@ -53,3 +53,8 @@ This project is at the alpha stages, and a lot more will be fixed then what is c
 - [MC-182383](https://bugs.mojang.com/browse/MC-182383) - Blackstone walls use blackstone side texture on the top face
 - [MC-183421](https://bugs.mojang.com/browse/MC-183421) - Bell model does not map the stone nor planks textures correctly
 - [MC-194192](https://bugs.mojang.com/browse/MC-194192) - Potted cactus bottom face different from regular flower pot bottom
+- [MC-198727](https://bugs.mojang.com/browse/MC-198727) - The enchantment table book texture has missing pixels
+- [MC-198940](https://bugs.mojang.com/browse/MC-198940) - Tilde texture is too high
+- [MC-201808](https://bugs.mojang.com/browse/MC-201808) - Arrows are held awkwardly in entities' hands
+- [MC-203405](https://bugs.mojang.com/browse/MC-203405) - Hardcore absorption hearts are not visually different enough from normal absorption hearts
+
