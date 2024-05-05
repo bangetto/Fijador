@@ -64,4 +64,5 @@ This project is at the alpha stages, and a lot more will be fixed then what is c
 - [MC-209947](https://bugs.mojang.com/browse/MC-209947) - minecraft:block/scaffolding_unstable has incorrect cullfaces
 - [MC-214641](https://bugs.mojang.com/browse/MC-214641) - Stained glass still uses the pre-1.12 color scheme
 - [MC-214643](https://bugs.mojang.com/browse/MC-214643) - Dye items still use the pre-1.12 color scheme
+- [MC-216654](https://bugs.mojang.com/browse/MC-216654) - Fire coral fans create swastikas when placed together
 
