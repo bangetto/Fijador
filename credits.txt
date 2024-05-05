@@ -18,3 +18,4 @@ Jiingy: https://bugs.mojang.com/secure/attachment/557727/zombie_villager.png
 Connor Steppie: https://bugs.mojang.com/secure/attachment/358271/template_cake_with_candle.json
 Connor Steppie: https://bugs.mojang.com/secure/attachment/534842/scaffolding_unstable.json
 Jiingy: https://bugs.mojang.com/browse/MC-214641
+Jiingy: https://bugs.mojang.com/secure/attachment/545859/light_blue_dye.png
