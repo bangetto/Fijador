@@ -67,4 +67,5 @@ This project is at the alpha stages, and a lot more will be fixed then what is c
 - [MC-216654](https://bugs.mojang.com/browse/MC-216654) - Fire coral fans create swastikas when placed together
 - [MC-221851](https://bugs.mojang.com/browse/MC-221851) - Tilted big dripleaf texture mirrored incorrectly from underneath
 - [MC-222791](https://bugs.mojang.com/browse/MC-222791) - Scute floats in the player's hand
+- [MC-222925](https://bugs.mojang.com/browse/MC-222925) - Most dyes float in the player's hand
 
