@@ -65,4 +65,6 @@ This project is at the alpha stages, and a lot more will be fixed then what is c
 - [MC-214641](https://bugs.mojang.com/browse/MC-214641) - Stained glass still uses the pre-1.12 color scheme
 - [MC-214643](https://bugs.mojang.com/browse/MC-214643) - Dye items still use the pre-1.12 color scheme
 - [MC-216654](https://bugs.mojang.com/browse/MC-216654) - Fire coral fans create swastikas when placed together
+- [MC-221851](https://bugs.mojang.com/browse/MC-221851) - Tilted big dripleaf texture mirrored incorrectly from underneath
+- [MC-222791](https://bugs.mojang.com/browse/MC-222791) - 
 
