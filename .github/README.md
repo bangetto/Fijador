@@ -61,4 +61,5 @@ This project is at the alpha stages, and a lot more will be fixed then what is c
 - [MC-205288](https://bugs.mojang.com/browse/MC-205288) - Zombie Villager arm texture is misplaced
 - [MC-206315](https://bugs.mojang.com/browse/MC-206315) - Loom texture has an incorrect colored pixel
 - [MC-208191](https://bugs.mojang.com/browse/MC-208191) - Unneeded face in candle cake model
+- [MC-209947](https://bugs.mojang.com/browse/MC-209947) - minecraft:block/scaffolding_unstable has incorrect cullfaces
 

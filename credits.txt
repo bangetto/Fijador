@@ -15,3 +15,5 @@ KoriKlorkin: https://bugs.mojang.com/browse/MC-267095
 DecafDawren: https://bugs.mojang.com/secure/attachment/330601/bell_fix.zip
 Connor Steppie: https://bugs.mojang.com/browse/MC-194192
 Jiingy: https://bugs.mojang.com/secure/attachment/557727/zombie_villager.png
+Connor Steppie: https://bugs.mojang.com/secure/attachment/358271/template_cake_with_candle.json
+Connor Steppie: https://bugs.mojang.com/secure/attachment/534842/scaffolding_unstable.json
