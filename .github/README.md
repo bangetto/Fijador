@@ -68,4 +68,5 @@ This project is at the alpha stages, and a lot more will be fixed then what is c
 - [MC-221851](https://bugs.mojang.com/browse/MC-221851) - Tilted big dripleaf texture mirrored incorrectly from underneath
 - [MC-222791](https://bugs.mojang.com/browse/MC-222791) - Scute floats in the player's hand
 - [MC-222925](https://bugs.mojang.com/browse/MC-222925) - Most dyes float in the player's hand
+- [MC-222926](https://bugs.mojang.com/browse/MC-222926) - Sunflower floats in the player's hand
 
