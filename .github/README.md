@@ -57,4 +57,5 @@ This project is at the alpha stages, and a lot more will be fixed then what is c
 - [MC-198940](https://bugs.mojang.com/browse/MC-198940) - Tilde texture is too high
 - [MC-201808](https://bugs.mojang.com/browse/MC-201808) - Arrows are held awkwardly in entities' hands
 - [MC-203405](https://bugs.mojang.com/browse/MC-203405) - Hardcore absorption hearts are not visually different enough from normal absorption hearts
+- [MC-204899](https://bugs.mojang.com/browse/MC-204899) - Side texture for podzol hasn't been updated with the texture update
 
