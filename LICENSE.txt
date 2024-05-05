@@ -15,4 +15,5 @@ What you can't do:
   - You can't claim ownership over the project in anyway.
   - You can't use the project that are not free-to-download in any way [this also includes in-game purcheses/extendet funcionality in a paid version].
   - You can't re-upload the project.
+    - Unless if you are making a pull-request on Github.
   - You can't use the project's name to advertise something that don't requires the user to install this project.
