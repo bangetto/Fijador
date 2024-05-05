@@ -1,0 +1,19 @@
+---------------------
+|  FIJADOR LICENSE  |
+---------------------
+
+What you can do:
+  - You can create new projects based on the project or embed the projects into other projects as long you do revune sharing [the percentage of the revune sharing is half of the percentage of my project in your project, but contact me so we can discuss these details],
+    but Modpacks can still freely use it as long they don't modify it!
+  - You can take inspiration as long you start from the ground up.
+  - You can use limited amount of assets as long you contact me and give credit in the main folder of the project:
+    - The format you use should not be misunderstandable and simple, and should contain my name, the project it's from, and a direct link to it.
+    - Mojang can, and is encoruaged to implemnt it into Minecraft without restrictions.
+  - If you make a video about the pack you need to have a direct link to the project's page in the first 5 lines of your description.
+
+What you can't do:
+  - You can't claim ownership over the project in anyway.
+  - You can't use the project that are not free-to-download in any way [this also includes in-game purcheses/extendet funcionality in a paid version].
+  - You can't re-upload the project.
+    - Unless if you are making a pull-request on Github.
+  - You can't use the project's name to advertise something that don't requires the user to install this project.
