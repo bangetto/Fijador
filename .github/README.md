@@ -59,4 +59,5 @@ This project is at the alpha stages, and a lot more will be fixed then what is c
 - [MC-203405](https://bugs.mojang.com/browse/MC-203405) - Hardcore absorption hearts are not visually different enough from normal absorption hearts
 - [MC-204899](https://bugs.mojang.com/browse/MC-204899) - Side texture for podzol hasn't been updated with the texture update
 - [MC-205288](https://bugs.mojang.com/browse/MC-205288) - Zombie Villager arm texture is misplaced
+- [MC-206315](https://bugs.mojang.com/browse/MC-206315) - Loom texture has an incorrect colored pixel
 
